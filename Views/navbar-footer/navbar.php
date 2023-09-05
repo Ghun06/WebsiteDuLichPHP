@@ -109,7 +109,7 @@
                                 <div id="title">
                                     CHÀO MỪNG BẠN ĐẾN VỚI WEBSITE DU LICH
                                 </div>
-                                <div style="font-size: 25px; margin-top: 20px; border-bottom: 2px solid rgb(219, 203, 203)">Đăng ký</div>
+                                <div style="font-size: 20px; margin-top: 20px; border-bottom: 2px solid rgb(219, 203, 203)">Đăng ký</div>
                                 <form action="?act=taikhoan&xuli=dangky" method="POST" id="signupform"> </form> 
                                 <br>
                                 <input type="email" name="email" id="email" form="signupform" required placeholder="Email"> <br>
